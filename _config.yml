@@ -159,7 +159,16 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /images/avatar.png
+# avatar: /images/avatar.gif
+  # 设置头像资源的位置
+  # url: /images/avatar.png
+  # 开启圆形头像
+  # rounded: true
+  # # 不透明的比例：0就是完全透明
+  # opacity: 1
+  # # 不开启旋转
+  # rotated: false
 
 # Table Of Contents in the Sidebar
 toc:
